@@ -6,9 +6,9 @@
 
 ### Sätt två
 `''' '''`. Allt mellan `'''` och `'''` kommer tas bort. Fungerar även på flera rader.
-```pythonx
+```python
 ''' Detta
 		är 
   en
-				kommentar
+				kommentar'''
 ```
