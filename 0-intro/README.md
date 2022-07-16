@@ -1,0 +1,29 @@
+# Intro
+
+### Git
+Git är en mjukvara som hanterar olika versioner av projekt. Git kan också användas för att sammarbeta och spara information på internet.
+
+- Skapa ett konto på github
+- Skaffa en personal access token
+- Ladda ner git på dator
+
+Länk till dessa dokument: https://github.com/Huggepugge1/Pappa
+
+För att ladda ner git på datorn använder man kommandot `winget install -e --id Git.Git`. Man kan också göra detta via webben men det underlättar inte, snarare gör det bara svårare. För att använda git måste man lägga in git i PATH. PATH är en lista på ställen där datorn söker om man inte säger åt den exakt var den ska söka.
+
+##### Git i din PATH
+- Sök på PATH i windows.
+- Klicka på den som handlar om variabler
+- Tryck på variabler-knappen
+- Dubbelklicka på den som heter Path
+- Tryck på New
+- Tryck på browse
+- Git kommer normalt sätt vara i C:\Program Files\Git
+- Välj mappen som heter bin
+- Starta om kommandotolken (cmd)
+
+### Python
+Installeras via microsoft store och läggs in i PATH automatiskt. För att använda python skriv `python3` i terminalen(cmd).
+
+### Codeforces
+Hemsida som har extremt många programmeringsutmaningar som är superbra. Skapa ett konto där.
