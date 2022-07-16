@@ -7,7 +7,7 @@ gånger: `*`. Mellan två nummer eller en sträng och ett nummer. Strängen komm
 delat: `/` eller `//`. `/` ger det exakta värdet och `//` rundar ALLTID nedåt. Mellan två nummer.<br>
 mod: `%`. Ger rest efter en heltals division. `10 % 6 = 4`. 6 går en gång i 10 och 4 återstår. Ett tal % 2 är 1 om talet är udda och 0 om talet är jämt. Detta är hur man kollar efter udda och jämna tal.<br>
 <br>
-Operator= används för att göra operationer på en variabel. Till exempel: `x /= 5` = `x = x / 5`, `x += 5` = x = x + 5`. I python fungerar inte ++ operatorn. ++ lägger till 1 på en variabel. Till exempel `x++` = `x += 1` = `x = x + 1`.
+Operator= används för att göra operationer på en variabel. Till exempel: `x /= 5` = `x = x / 5`, `x += 5` = `x = x + 5`. I python fungerar inte ++ operatorn. ++ lägger till 1 på en variabel. Till exempel `x++` = `x += 1` = `x = x + 1`.
 ### Math-modulen
 Ger mer avanserade Mattefunktioner såsom `Math.floor()` (avrundar nedåt). Dessa går att hitta på nätet. För att använda sig av en modul måste man importera den först. Om den finns på din dator skriver man bara import <namn> längst upp i filen. Mer om moduler senare.
 
