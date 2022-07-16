@@ -22,6 +22,10 @@ För att ladda ner git på datorn använder man kommandot `winget install -e --i
 - Välj mappen som heter bin
 - Starta om kommandotolken (cmd)
 
+##### Användning
+
+- Kopiera allt från ett projekt från github: git clone <länk>
+
 ### Python
 Installeras via microsoft store och läggs in i PATH automatiskt. För att använda python skriv `python3` i terminalen(cmd).
 
