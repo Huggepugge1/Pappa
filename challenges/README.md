@@ -6,9 +6,9 @@
 * Codeforces:  `https://codeforces.com/`
 
 ## 4 - If, For, While
-* Hello World!: `https://po.kattis.com/problems/helloworld`
-* Watermelon: `https://codeforces.com/problemset/problem/4/A`
-* Spökhuset:  `lär ditt barn programmering eller vad den nu heter.`
+* Hello World!: https://po.kattis.com/problems/helloworld
+* Watermelon:   https://codeforces.com/problemset/problem/4/A
+* Spökhuset:    lär ditt barn programmering eller vad den nu heter.
 
 ## 5 - Functions
 Spökhuset: Hur kan vi göra spelet mer lättläst och lättare att förstå?
