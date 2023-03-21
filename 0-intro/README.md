@@ -25,7 +25,7 @@ För att ladda ner git på datorn använder man kommandot `winget install -e --i
 ##### Användning
 
 - Kopiera allt från ett projekt från github: `git clone <länk>`
-- Hämta något / uppdatera projekt: `git stash`, `git pull`
+- Hämta något / uppdatera projekt: `git pull`
 - ladda upp något: `git add .`, `git commit -m "<message>"`, `git push`
 
 ### Python
