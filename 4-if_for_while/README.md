@@ -53,7 +53,7 @@ Loopar kan också avslutas genom `break`.
 
 #### Exempel
 ```py
-for i in range(0, 5):
+for i in range(5):
     print(i)
 
 # Expected output
