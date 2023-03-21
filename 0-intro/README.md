@@ -30,6 +30,3 @@ För att ladda ner git på datorn använder man kommandot `winget install -e --i
 
 ### Python
 Installeras via microsoft store och läggs in i PATH automatiskt. För att använda python skriv `python3` i terminalen(cmd).
-
-### Codeforces
-Hemsida som har extremt många programmeringsutmaningar som är superbra. Skapa ett konto där.
