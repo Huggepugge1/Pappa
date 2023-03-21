@@ -14,4 +14,4 @@ Spökhuset:  `lär ditt barn programmering eller vad den nu heter.`
 Hur kan vi göra Spökhuset mer lättläst och lättare att förstå?
 
 ## 6-modules
-Gör (Nice netcat...)[https://play.picoctf.org/practice/challenge/156] i python med `pwntools`.
+Gör [Nice netcat...](https://play.picoctf.org/practice/challenge/156) i python med `pwntools`.
