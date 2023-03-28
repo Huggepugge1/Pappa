@@ -1,0 +1,1 @@
+print("\n".join(["Hello World!"] * int(input())))
