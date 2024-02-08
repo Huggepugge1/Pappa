@@ -8,6 +8,7 @@
 ## 4 - If, For, While
 * Hello World!: https://po.kattis.com/problems/helloworld
 * Watermelon:   https://codeforces.com/problemset/problem/4/A
+* The Recipe:   https://po.kattis.com/problems/receptet
 * Spökhuset:    lär ditt barn programmering eller vad den nu heter.
 
 ## 5 - Functions
